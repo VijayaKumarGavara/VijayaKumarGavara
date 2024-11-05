@@ -34,9 +34,9 @@ An intuitive task tracker application that helps users manage and organize their
 ---
 
 ## Education
-**Bachelor of Technology in Computer Science Engineering**  
-RVR & JC College Of Engineering, Guntur, Andhra Pradesh
-Expected Graduation: May, 2025
+**Bachelor of Technology in Computer Science Engineering** 
+[RVR & JC College Of Engineering], [Guntur, Andhra Pradesh]  
+Expected Graduation: [May, 2025]
 
 ---
 
