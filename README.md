@@ -42,7 +42,7 @@ Expected Graduation: May, 2025
 
 ## Connect with Me
 I am open to collaboration and networking opportunities. Feel free to reach out to me via the following platforms:
-- LinkedIn (https://www.linkedin.com/in/gavara-vijaya-kumar/)
+- [LinkedIn](https://www.linkedin.com/in/gavara-vijaya-kumar/)
 - [Personal Website](https://vijayakumargavara.github.io/My-Portfolio/)
 
 ---
