@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Vijaya Kumar Gavara 👋
 
-<!--
-**VijayaKumarGavara/VijayaKumarGavara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a **final-year Computer Science Engineering student** with a strong foundation in **web development** and **data structures**. My passion lies in leveraging technology to create innovative solutions that address real-world challenges. I am continuously seeking opportunities to learn and grow in the field of software development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+### Programming Languages
+- **C**
+- **Python**
+
+### Web Development
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Node.js, Express.js
+- **Database Management**: MySQL, MongoDB, Oracle SQL
+
+### Other Technologies
+- **Version Control**: Git, GitHub
+
+## Projects
+### [Guardian Save](https://github.com/yourusername/guardian-save)
+A secure banking transaction prototype implementing a two-tier security level using Node.js and MySQL. This project features user authentication and transaction approvals to enhance security.
+
+### [Personal Portfolio](https://vijayakumargavara.github.io/My-Portfolio/)
+A responsive portfolio website that showcases my projects, skills, and experiences. Developed using HTML, CSS, and JavaScript, this site highlights my work and professional journey.
+
+### [Online Voting System](https://github.com/VijayaKumarGavara/Online-Voting-System)
+A secure and efficient online voting system designed to facilitate elections. This project ensures voter anonymity and data integrity while allowing users to cast their votes easily from any device. It features user authentication, real-time vote tallying, and transparent results display.
+
+### [Task Tracking System](https://github.com/VijayaKumarGavara/Task-Tracker)
+An intuitive task tracker application that helps users manage and organize their daily tasks effectively. This project allows users to create, edit, and delete tasks, set deadlines, and track progress in real time. The user-friendly interface enhances productivity by enabling efficient task management and prioritization.
+
+---
+
+## Education
+**Bachelor of Technology in Computer Science Engineering**  
+RVR & JC College Of Engineering, Guntur, Andhra Pradesh
+Expected Graduation: May, 2025
+
+---
+
+## Connect with Me
+I am open to collaboration and networking opportunities. Feel free to reach out to me via the following platforms:
+- [LinkedIn] (https://www.linkedin.com/in/gavara-vijaya-kumar/)
+- [Personal Website](https://vijayakumargavara.github.io/My-Portfolio/)
+
+---
+
+## Additional Information
+- **Interests**: Web development, Inter & Intra College Techincal Events.
+- **Languages**: Fluent in English, Telugu.
+
+Thank you for visiting my profile! I look forward to connecting with you.
