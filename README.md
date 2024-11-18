@@ -9,11 +9,12 @@ I am a **final-year Computer Science Engineering student** with a strong foundat
 ### Programming Languages
 - **C**
 - **Python**
+- **Java Script**
 
 ### Web Development
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Node.js, Express.js
-- **Database Management**: MySQL, MongoDB, Oracle SQL
+- **Database Management**: My SQL, Oracle SQL
 
 ### Other Technologies
 - **Version Control**: Git, GitHub
@@ -21,9 +22,6 @@ I am a **final-year Computer Science Engineering student** with a strong foundat
 ## Projects
 ### [Guardian Save](https://github.com/yourusername/guardian-save)
 A secure banking transaction prototype implementing a two-tier security level using Node.js and MySQL. This project features user authentication and transaction approvals to enhance security.
-
-### [Personal Portfolio](https://vijayakumargavara.github.io/My-Portfolio/)
-A responsive portfolio website that showcases my projects, skills, and experiences. Developed using HTML, CSS, and JavaScript, this site highlights my work and professional journey.
 
 ### [Online Voting System](https://github.com/VijayaKumarGavara/Online-Voting-System)
 A secure and efficient online voting system designed to facilitate elections. This project ensures voter anonymity and data integrity while allowing users to cast their votes easily from any device. It features user authentication, real-time vote tallying, and transparent results display.
@@ -43,7 +41,6 @@ Expected Graduation: [May, 2025]
 ## Connect with Me
 I am open to collaboration and networking opportunities. Feel free to reach out to me via the following platforms:
 - [LinkedIn](https://www.linkedin.com/in/gavara-vijaya-kumar/)
-- [Personal Website](https://vijayakumargavara.github.io/My-Portfolio/)
 
 ---
 
