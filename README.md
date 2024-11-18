@@ -20,7 +20,7 @@ I am a **final-year Computer Science Engineering student** with a strong foundat
 - **Version Control**: Git, GitHub
 
 ## Projects
-### [Guardian Save](https://github.com/yourusername/guardian-save)
+### [Guardian Save](https://github.com/VijayaKumarGavara/Guardian-Save)
 A secure banking transaction prototype implementing a two-tier security level using Node.js and MySQL. This project features user authentication and transaction approvals to enhance security.
 
 ### [Online Voting System](https://github.com/VijayaKumarGavara/Online-Voting-System)
