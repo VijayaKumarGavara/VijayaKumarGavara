@@ -20,6 +20,9 @@ I am a **final-year Computer Science Engineering student** with a strong foundat
 - **Version Control**: Git, GitHub
 
 ## Projects
+### [Dhanya Sethu – Village Grain Procurement System]([https://github.com/VijayaKumarGavara/Dhanya-Sethu](https://github.com/VijayaKumarGavara/Dhanya---Sethu-Production))
+A full-stack grain procurement and payment tracking platform built to digitize rural agri-transactions between farmers, buyers, and workers. Dhanya Sethu enables real-time procurement entries, payment dues tracking, role-based dashboards, and weather updates to support village-level agriculture commerce. Designed for simplicity and trust, this system works even for users with minimal technical literacy, ensuring smooth operations in rural agri markets.
+
 ### [Guardian Save](https://github.com/VijayaKumarGavara/Guardian-Save)
 A secure banking transaction prototype implementing a two-tier security level using Node.js and MySQL. This project features user authentication and transaction approvals to enhance security.
 
