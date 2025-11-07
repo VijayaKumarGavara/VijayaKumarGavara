@@ -12,9 +12,9 @@ I am a **final-year Computer Science Engineering student** with a strong foundat
 - **Java Script**
 
 ### Web Development
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS
 - **Backend**: Node.js, Express.js
-- **Database Management**: My SQL, Oracle SQL
+- **Database Management**: My SQL, Oracle SQL, MongoDB
 
 ### Other Technologies
 - **Version Control**: Git, GitHub
