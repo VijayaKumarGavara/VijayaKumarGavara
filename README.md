@@ -1,7 +1,7 @@
 # Hi, I'm Vijaya Kumar Gavara 👋
 
 ## About Me
-I am a **final-year Computer Science Engineering student** with a strong foundation in **web development** and **data structures**. My passion lies in leveraging technology to create innovative solutions that address real-world challenges. I am continuously seeking opportunities to learn and grow in the field of software development.
+I am a **Computer Science Engineering Under Graduate** with a strong foundation in **web development**. My passion lies in leveraging technology to create innovative solutions that address real-world challenges. I am continuously seeking opportunities to learn and grow in the field of software development.
 
 ---
 
